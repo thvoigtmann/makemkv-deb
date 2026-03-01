@@ -1,3 +1,9 @@
 # makemkv-beta-deb
-Debian package for makemkv, created with checkinstall.
-Also works on Ubuntu and Linux mint
+Method to create debian packages for `makemkv`, using `checkinstall`.
+Adapted from https://github.com/chukfinley/makemkv-deb
+with some updates.
+
+- allows to provide the version number on the command line
+- does not install, but only creates the `.deb` packages
+- keeps the original tarballs around
+- does not attempt to build the GUI
