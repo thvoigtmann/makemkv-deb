@@ -7,3 +7,4 @@ with some updates.
 - does not install, but only creates the `.deb` packages
 - keeps the original tarballs around
 - does not attempt to build the GUI
+- still need to fetch the beta key for `makemkv` manually
